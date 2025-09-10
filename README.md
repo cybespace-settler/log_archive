@@ -11,6 +11,6 @@ Then
 
 `chmod +x ./log_archive.sh` 
 
-Then run to compress /var/log or specify directory after script
+After that run to compress /var/log or specify directory after script
 
 `*sudo* ./log_archive *add dir here*`
